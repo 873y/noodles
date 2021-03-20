@@ -1,5 +1,6 @@
 ## Noodles
 ![chicken](https://raw.githubusercontent.com/vioctaus/noodles/main/noodles/golden_chicken.jpg)
+
 Cool noodles collection (and dotfiles)
 ### Cool crepe recepie (in french)
 tes fondre le beurre au micro-ondes et faites légèrement chauffer le lait qui doit être à peine tiède (ça évite les grumeaux)
