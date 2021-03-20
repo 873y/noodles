@@ -1,5 +1,5 @@
 ## Noodles
-![chicken](https://raw.githubusercontent.com/vioctaus/noodles/main/noodles/golden_chicken.jpg)
+![chicken](https://raw.githubusercontent.com/vioctaus/noodles/main/noodles/chicken_curry.jpg)
 
 Cool noodles collection (and dotfiles)
 ### Cool crepe recepie (in french)
